@@ -71,6 +71,9 @@ db.sqlite3-journal
 venv
 btre_project/btre/settings.py
 /static
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
 
 # Flask stuff:
 instance/
